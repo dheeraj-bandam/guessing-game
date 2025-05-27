@@ -14,7 +14,7 @@ A simple console-based number guessing game built in both Java and C++.
 
 ## 🚀 How to Run
 
-### Java
+### C++
 ```bash
 g++ main.cpp -o guessing
 ./guessing
